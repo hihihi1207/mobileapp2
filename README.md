@@ -9,6 +9,11 @@ BusArrival는 SK Open API(Tmap)를 사용하여
 
 Jetpack Compose와 MVVM 구조로 구현되었습니다.
 
+## 실행 화면
+
+<img width="324" height="625" alt="image" src="https://github.com/user-attachments/assets/16fc5396-305e-475e-a9be-642ee91cc736" />
+
+
 ## 주요 기능
 
 - 출발지 / 도착지 장소 검색
